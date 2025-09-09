@@ -24,7 +24,7 @@ Pasos para ejecutar:
 
 Clona el repositorio y entra en la carpeta principal:
 
-git clone https://github.com/TU_USUARIO/BigData.git
+git clone https://github.com/danielgarciaN/BigData.git
 cd BigData
 
 
